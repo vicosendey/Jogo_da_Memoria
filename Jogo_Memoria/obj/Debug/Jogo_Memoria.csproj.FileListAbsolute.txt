@@ -1,0 +1,14 @@
+E:\Documentos\Jogo_Memoria\Jogo_Memoria\bin\Debug\Jogo_Memoria.exe.config
+E:\Documentos\Jogo_Memoria\Jogo_Memoria\bin\Debug\Jogo_Memoria.exe
+E:\Documentos\Jogo_Memoria\Jogo_Memoria\bin\Debug\Jogo_Memoria.pdb
+E:\Documentos\Jogo_Memoria\Jogo_Memoria\obj\Debug\Jogo_Memoria.Frm_Menu.resources
+E:\Documentos\Jogo_Memoria\Jogo_Memoria\obj\Debug\Jogo_Memoria.Properties.Resources.resources
+E:\Documentos\Jogo_Memoria\Jogo_Memoria\obj\Debug\Jogo_Memoria.csproj.GenerateResource.Cache
+E:\Documentos\Jogo_Memoria\Jogo_Memoria\obj\Debug\Jogo_Memoria.csproj.CoreCompileInputs.cache
+E:\Documentos\Jogo_Memoria\Jogo_Memoria\obj\Debug\Jogo_Memoria.exe
+E:\Documentos\Jogo_Memoria\Jogo_Memoria\obj\Debug\Jogo_Memoria.pdb
+E:\Documentos\Jogo_Memoria\Jogo_Memoria\obj\Debug\Jogo_Memoria.Frm_Fases.resources
+E:\Documentos\Jogo_Memoria\Jogo_Memoria\obj\Debug\Jogo_Memoria.Frm_Fase_01.resources
+E:\Documentos\Jogo_Memoria\Jogo_Memoria\obj\Debug\Jogo_Memoria.Frm_Fase_02.resources
+E:\Documentos\Jogo_Memoria\Jogo_Memoria\obj\Debug\Jogo_Memoria.Frm_Fase_03.resources
+E:\Documentos\Jogo_Memoria\Jogo_Memoria\obj\Debug\Jogo_Memoria.csprojResolveAssemblyReference.cache
